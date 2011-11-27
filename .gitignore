@@ -1,0 +1,14 @@
+# Development #
+###############
+*.pyc
+docs/build
+*.egg-info
+
+# Emacs #
+#########
+*~
+
+# Coverage #
+############
+.coverage
+htmlcov
